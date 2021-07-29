@@ -1,0 +1,20 @@
+.jumbotron {
+  background-color: #759eb8;
+  padding-top: 6rem;
+}
+.nama {
+  font-size: 30px;
+  font-weight: bold;
+}
+
+#projects {
+  background-color: #759eb8;
+}
+
+footer {
+  background-color: #759eb8;
+}
+
+section {
+  padding-top: 4rem;
+}
